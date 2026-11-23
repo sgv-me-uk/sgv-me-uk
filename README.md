@@ -4,25 +4,28 @@
 Hello and welcome to my new user profile page.
 I am Sacha, and have had deep interest in technology since I can remember.
 Usually a profile begins with a background, so storytime it is!
-This one reads like a blog post, so at times it may feel deep, but still relevant.
+This one reads like a blog post with some depth in the content.
+
 Cars, televisions, cameras and so much more that we learn to take for granted at a young age, have persistently sparked fresh curiosity.
 Many a childhood hour was spent contemplating "wouldn't it be nice to make something incredible? An animation? A computer game? Music? Video montage? Perhaps even some fun menus."
-Creative outlets grew, starting with MS Paint and Audio Recorder, with expansion to software modding, DAWs, Macromedia Flash, software development IDEs and level editors.
+Creative outlets grew, starting with MS Paint, Audio Recorder, camcorders and VHS tapes, with expansion to software modding, DAWs, Macromedia Flash, software development IDEs and level editors.
 As technological developments were phased in, so did curiosity: feature phones, smartphones, Embedded/SoCs, Open Source software communities.
 Technological explorations felt like child's play.
 However, my own output generally felt mediocre at best.
 It did not matter if the 3D sculpture took days to make, or if I compiled a program from source successfully.
 The perfectionism grew and grew, imposter syndrome steadily crept in and I started to wonder to myself, "will I ever be good enough to realise my childhood dreams?"
-Couple this with external invalidation over life aspirations and then persistent feelings of declined self worth.
+Eventually external invalidation fuelled that feeling of inadequacy.
 
 Soon before lockdown, the feelings of regret had snowballed and I secretly wished I had pursued my interests in engineering and technology more deeply in life. Not working with C enough left me feeling a sense of chronic stagnation.
-Sharing these regrets with others met external validation. Lockdown catalysed the progress with additional valuable time and space. Deep reality checks prompted confidence: "Stop deviating. Life is too short. You will make the world a better place doing what you enjoy more than living a lie. You can be a boffin! No need to break the stereotype".
-If there is one psychological breakthrough I would name here, it would be escaping the reverse entitlement complex.
-Learning that it was not selfish to follow one's dreams in life, whether that was to become a scientist, artist, or otherwise, should not cloud one's judgement.
+Sharing these regrets with others met external validation. That has helped to adjust the imbalance of losing faith in being "open minded". Lockdown catalysed the progress with additional valuable time and space. Deep reality checks prompted confidence: "Stop deviating. Life is too short. You will make the world a better place doing what you enjoy more than living a lie. You can be a boffin! No need to break the stereotype".
+Escape from the reverse entitlement complex saw the self worth raise again, but so did the impatience.
+2021 saw me devote full time private study to C and C++, build an older GitHub portfolio and pursuit to progress this study to a career.
 
-Climbing the slippery slope of hope, grinding through more wheels of bureaucracy, and re-stabilising my own life following multiple emergency scenarios have demanded incredible patience, even after exhausting it over and over again.
-After years having already deviated, I would not accept another forced one, even during the tech recruitment freeze in 2023.
-Even with further life disruptions and juggling a full time side job (yes, you read that correctly), I still remained committed to private study of C programming, working on portfolio content and deepening my exploration of AI technologies.
+During the tech recruitment freeze in 2023, I was determined not to deviate again after so long.
+Despite further life disruptions/emergencies, burnout and juggling full time side jobs (yes, you read that correctly), I still remained committed to private study of C programming, working on portfolio content and deepening my exploration of AI technologies.
+So, finally in late 2026, I have brought a GitHub refresh with even more skills ready to treacle.
+If you have read all of this bio, well done! By now it may be evident that depth is much more emphasised than breadth on this page.
+
 
 
 ## Software Engineering | AI-assisted Development | Open Source
@@ -31,8 +34,9 @@ I'm particularly interested in exploring how AI-assisted development can complem
 With the recent growth of 'vibe coding', it was clear that AI was not just a tool to learn to use, but a tool to learn to master - knowing how to engineer AI prompts to produce a desired result was important, but analysing the output itself is quite another skillset entirely.
 Scrutiny is key for anything experimental. Having already decided to deepen my programming knowledge was a sensible choice before the age of AI slop.  Development speed is desirable. Quality is necessary, especially when using C, which still runs very fast.
 In other words, do it fast, but also do it well. Production quality needs a baseline, regardless of how incorrect industry standard deadlines may be.
-When at an AI prompt, it is easy to say, "build me function X for my program" and hope an acceptable result arrives soon.
-But we also need to learn to engineer prompts well, to test them, and to interrogate what we receive.
+All too often it is very tempting to request to an AI, "build me function X for my program" or "build me an app to monitor datasets A, B and C" and hope for an acceptable enough output.
+We also need to learn to engineer prompts well, to test them, and to interrogate what we receive.
+These themes are elaborated through my exploration of AI with software development.
 
 
 ---
@@ -84,11 +88,19 @@ I'm always looking to expand my knowledge, improve my programming skills, and ex
 My current focus is on developing my software engineering skills and exploring the intersection of AI and traditional software development.
 During Autumn 2026, I have spent considerable time on a course taught on Udemy: https://www.udemy.com/course/build-ai-powered-applications-in-modern-c
 Although this is not in C, it is in C++, which, for some reason, makes more sense to me than JS, PHP, Kotlin, Python or most other programming languages on this planet.
-As the saying goes, "each to their own".
-After completing the course, I would also hope to make some time to write C programs that can perform AI API exchanges.
+As the saying goes, "each to their own", but C++ is known to be very fast, and has been used in many of my favourite programs over the years.
+After completing the course, I would also hope to make some time to grow my C programming skills in these areas.
 Another ambition that I would like to explore further is C web development.
 Exploration of Docker with Apache/nginx, WebAssembly and FastCGI with the aid of Claude and ChatGPT, have offered considerable insight and potential.
 Virtual Private Servers may provide a more C-friendly alternative to mainstream hosting platforms.
+By now, you may be wondering, "why would someone move from C++ to C and not to Rust, Zig or TypeScript, or anything else that's mainstream?"
+C continues to grow in the TIOBE Index, remains incredibly fast, is highly general purpose, and can still use workarounds in order to accomplish simulating Object Oriented Programming through Data Structures.
+Furthermore, it is well supported for Linux Kernel Module development and has other low level access features for a high level programming language.
+In the age of AI growth, mainstream technologies get plenty of attention.
+Although C is arguably niche, it is long since established and is widespread enough to have trainable content.
+Learning Full Stack technologies? How many of them will be redundant in the next year? 2 years? 5?
+If they're your thing, I am absolutely for you doing you.
+I've just felt like C was always the 'sweet spot' for me since I first started learning it.
 
 ---
 
