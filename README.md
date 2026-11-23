@@ -4,16 +4,26 @@
 Hello and welcome to my new user profile page.
 I am Sacha, and have had deep interest in technology since I can remember.
 Usually a profile begins with a background, so storytime it is!
+This one reads like a blog post, so at times it may feel deep, but still relevant.
 Cars, televisions, cameras and so much more that we learn to take for granted at a young age, have persistently sparked fresh curiosity.
 Many a childhood hour was spent contemplating "wouldn't it be nice to make something incredible? An animation? A computer game? Music? Video montage? Perhaps even some fun menus."
 Creative outlets grew, starting with MS Paint and Audio Recorder, with expansion to software modding, DAWs, Macromedia Flash, software development IDEs and level editors.
-As technological developments were phased in, so did curiosity: feature phones, smartphones, Embedded/SoCs, Open Source software and community-centred projects.
-Admittedly, most, if not all, childhood accomplishments felt mediocre, coupled with motivation for contistent improvement.
-Aspirations grew from "let's make something fun" to "let's build the tools to bring this to life."
-With a more diverse earlier career and calamities of life to add to the chaos, I learned a simple, but valuable lesson: "This is getting out of control. I want to return to my roots and follow my passions in life."
-Climbing the slippery slope of hope, grinding through more wheels of bureaucracy, and re-stabilising my own life following multiple emergency scenarios have demanded incredible patience, even after exhausting it over and over again!
-However, I have finally made it back on GitHub and this time, much less 'amateur-ly', so to speak.
-May it be a milestone worth celebrating through thriving.
+As technological developments were phased in, so did curiosity: feature phones, smartphones, Embedded/SoCs, Open Source software communities.
+Technological explorations felt like child's play.
+However, my own output generally felt mediocre at best.
+It did not matter if the 3D sculpture took days to make, or if I compiled a program from source successfully.
+The perfectionism grew and grew, imposter syndrome steadily crept in and I started to wonder to myself, "will I ever be good enough to realise my childhood dreams?"
+Couple this with external invalidation over life aspirations and then persistent feelings of declined self worth.
+
+Soon before lockdown, the feelings of regret had snowballed and I secretly wished I had pursued my interests in engineering and technology more deeply in life. Not working with C enough left me feeling a sense of chronic stagnation.
+Sharing these regrets with others met external validation. Lockdown catalysed the progress with additional valuable time and space. Deep reality checks prompted confidence: "Stop deviating. Life is too short. You will make the world a better place doing what you enjoy more than living a lie. You can be a boffin! No need to break the stereotype".
+If there is one psychological breakthrough I would name here, it would be escaping the reverse entitlement complex.
+Learning that it was not selfish to follow one's dreams in life, whether that was to become a scientist, artist, or otherwise, should not cloud one's judgement.
+
+Climbing the slippery slope of hope, grinding through more wheels of bureaucracy, and re-stabilising my own life following multiple emergency scenarios have demanded incredible patience, even after exhausting it over and over again.
+After years having already deviated, I would not accept another forced one, even during the tech recruitment freeze in 2023.
+Even with further life disruptions and juggling a full time side job (yes, you read that correctly), I still remained committed to private study of C programming, working on portfolio content and deepening my exploration of AI technologies.
+
 
 ## Software Engineering | AI-assisted Development | Open Source
 So, waffle over, or in my case, waffle on!
