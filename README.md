@@ -87,13 +87,13 @@ Projects:
 I'm always looking to expand my knowledge, improve my programming skills, and explore new technologies.
 My current focus is on developing my software engineering skills and exploring the intersection of AI and traditional software development.
 During Autumn 2026, I have spent considerable time on a course taught on Udemy: https://www.udemy.com/course/build-ai-powered-applications-in-modern-c
-Although this is not in C, it is in C++, which, for some reason, makes more sense to me than JS, PHP, Kotlin, Python or most other programming languages on this planet.
-As the saying goes, "each to their own", but C++ is known to be very fast, and has been used in many of my favourite programs over the years.
+Although this is not in C, it is in C++, which is one of many languages in the C syntax family.
 After completing the course, I would also hope to make some time to grow my C programming skills in these areas.
 Another ambition that I would like to explore further is C web development.
 Exploration of Docker with Apache/nginx, WebAssembly and FastCGI with the aid of Claude and ChatGPT, have offered considerable insight and potential.
 Virtual Private Servers may provide a more C-friendly alternative to mainstream hosting platforms.
 By now, you may be wondering, "why would someone move from C++ to C and not to Rust, Zig or TypeScript, or anything else that's mainstream?"
+I actually started my journey with C before C++, although both started after exploration of Basic, PHP, and very limited exposure to ActionScript.
 C continues to grow in the TIOBE Index, remains incredibly fast, is highly general purpose, and can still use workarounds in order to accomplish simulating Object Oriented Programming through Data Structures.
 Furthermore, it is well supported for Linux Kernel Module development and has other low level access features for a high level programming language.
 In the age of AI growth, mainstream technologies get plenty of attention.
@@ -101,6 +101,8 @@ Although C is arguably niche, it is long since established and is widespread eno
 Learning Full Stack technologies? How many of them will be redundant in the next year? 2 years? 5?
 If they're your thing, I am absolutely for you doing you.
 I've just felt like C was always the 'sweet spot' for me since I first started learning it.
+Versatility is golden - I can use this toolbox to build a plugin, library, application, driver, server, client, embedded application... the list goes on.
+It's more effective for me to just stick with C and learn to use a new C tool.
 
 ---
 
