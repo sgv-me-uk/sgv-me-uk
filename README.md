@@ -9,7 +9,7 @@ This one reads like a blog post with some depth in the content.
 Cars, televisions, cameras and so much more that we learn to take for granted at a young age, have persistently sparked fresh curiosity.
 Many a childhood hour was spent contemplating "wouldn't it be nice to make something incredible? An animation? A computer game? Music? Video montage? Perhaps even some fun menus."
 Creative outlets grew, starting with MS Paint, Audio Recorder, camcorders and VHS tapes, with expansion to software modding, DAWs, Macromedia Flash, software development IDEs and level editors.
-As technological developments were phased in, so did curiosity: feature phones, smartphones, Embedded/SoCs, Open Source software communities.
+As technological developments were phased in, so was curiosity: feature phones, smartphones, Embedded/SoCs, Open Source software communities.
 Technological explorations felt like child's play.
 However, my own output generally felt mediocre at best.
 It did not matter if the 3D sculpture took days to make, or if I compiled a program from source successfully.
@@ -17,11 +17,11 @@ The perfectionism grew and grew, imposter syndrome steadily crept in and I start
 Eventually external invalidation fuelled that feeling of inadequacy.
 
 Soon before lockdown, the feelings of regret had snowballed and I secretly wished I had pursued my interests in engineering and technology more deeply in life. Not working with C enough left me feeling a sense of chronic stagnation.
-Sharing these regrets with others met external validation. That has helped to adjust the imbalance of losing faith in being "open minded". Lockdown catalysed the progress with additional valuable time and space. Deep reality checks prompted confidence: "Stop deviating. Life is too short. You will make the world a better place doing what you enjoy more than living a lie. You can be a boffin! No need to break the stereotype".
+Sharing these regrets with others met external validation. Lockdown catalysed the progress with additional valuable time and space. Deep reality checks prompted confidence: "Stop deviating. Life is too short. You will make the world a better place doing what you enjoy more than living a lie. You can be a boffin! No need to break the stereotype".
 Escape from the reverse entitlement complex saw the self worth raise again, but so did the impatience.
 2021 saw me devote full time private study to C and C++, build an older GitHub portfolio and pursuit to progress this study to a career.
 
-During the tech recruitment freeze in 2023, I was determined not to deviate again after so long.
+During the tech recruitment freeze in 2023, I reminded myself, "no more deviations. I will continue with C and embrace AI skills".
 Despite further life disruptions/emergencies, burnout and juggling full time side jobs (yes, you read that correctly), I still remained committed to private study of C programming, working on portfolio content and deepening my exploration of AI technologies.
 So, finally in late 2026, I have brought a GitHub refresh with even more skills ready to treacle.
 If you have read all of this bio, well done! By now it may be evident that depth is much more emphasised than breadth on this page.
