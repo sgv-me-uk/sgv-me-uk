@@ -4,27 +4,27 @@
 Hello and welcome to my new user profile page.
 I am Sacha, and have had deep interest in technology since I can remember.
 Usually a profile begins with a background, so storytime it is!
-This one reads like a blog post with some depth in the content.
+This one reads like a blog post with deeper moments.
 
 Cars, televisions, cameras and so much more that we learn to take for granted at a young age, have persistently sparked fresh curiosity.
 Many a childhood hour was spent contemplating "wouldn't it be nice to make something incredible? An animation? A computer game? Music? Video montage? Perhaps even some fun menus."
 Creative outlets grew, starting with MS Paint, Audio Recorder, camcorders and VHS tapes, with expansion to software modding, DAWs, Macromedia Flash, software development IDEs and level editors.
 As technological developments were phased in, so was curiosity: feature phones, smartphones, Embedded/SoCs, Open Source software communities.
-Technological explorations felt like child's play.
-However, my own output generally felt mediocre at best.
-It did not matter if the 3D sculpture took days to make, or if I compiled a program from source successfully.
-The perfectionism grew and grew, imposter syndrome steadily crept in and I started to wonder to myself, "will I ever be good enough to realise my childhood dreams?"
-Eventually external invalidation fuelled that feeling of inadequacy.
+Such exploration felt like child's play.
+However, satisfaction became a demanding appetite and output of personal projects normally felt mediocre.
+Perfectionism grew and grew, imposter syndrome steadily crept in and I questioned, "will I ever be good enough to realise my childhood dreams?"
+Before long, major errors were made: I opened my mind to the wrong ideas. Career diversification. External invalidation clouded life decisions. Reverse entitlement complex led me to question if it was selfish to be rewarded to do what one loved in life. The list continues.
 
-Soon before lockdown, the feelings of regret had snowballed and I secretly wished I had pursued my interests in engineering and technology more deeply in life. Not working with C enough left me feeling a sense of chronic stagnation.
-Sharing these regrets with others met external validation. Lockdown catalysed the progress with additional valuable time and space. Deep reality checks prompted confidence: "Stop deviating. Life is too short. You will make the world a better place doing what you enjoy more than living a lie. You can be a boffin! No need to break the stereotype".
-Escape from the reverse entitlement complex saw the self worth raise again, but so did the impatience.
-2021 saw me devote full time private study to C and C++, build an older GitHub portfolio and pursuit to progress this study to a career.
+Eventually, soon before lockdown, chronic stagnation snowballed. Regret filled most days not spent occupied with C++ or related STEM activities, while I secretly missed the fulfilment enjoyed earlier in life.
+Sharing these regrets with others met external validation. Lockdown catalysed the progress with additional valuable time and space. Deep reality checks prompted confidence: "Stop deviating. Life is too short. You will make the world a better place doing what you enjoy more than denying yourself. You can be a boffin! No need to break the stereotype".
+Waving goodbye to the reverse entitlement complex and the disillusioned sense of altruism that did more harm than good, 2021 welcomed a return to my roots to devote full time private study to C and C++, build a GitHub portfolio (older, now deprecated) and to pursue this interest much deeper.
+Finally, fresh days arrived with enthusiasm instead of chores to dread. Life was moving forward again and not just in circles.
 
-During the tech recruitment freeze in 2023, I reminded myself, "no more deviations. I will continue with C and embrace AI skills".
-Despite further life disruptions/emergencies, burnout and juggling full time side jobs (yes, you read that correctly), I still remained committed to private study of C programming, working on portfolio content and deepening my exploration of AI technologies.
-So, finally in late 2026, I have brought a GitHub refresh with even more skills ready to treacle.
-If you have read all of this bio, well done! By now it may be evident that depth is much more emphasised than breadth on this page.
+During the tech recruitment freeze in 2023, I reminded myself, "no more deviations. Software engineering and AI are my future."
+Despite further life disruptions/emergencies, burnout and juggling full time side jobs (yes, you read that correctly), I still remained committed to private study of C programming, working on portfolio content and deepening my exploration of AI technologies with moments where I return to C++.
+So, finally in late 2026, a much needed GitHub refresh has arrived.
+With a long period of training and practice, I would be delighted to see these C programming and AI efforts permeate through Open Source and production fields.
+If you have read all of this bio, well done! I have a tendency to lean towards depth more than breadth, which is advantageous for my direction.
 
 
 
@@ -32,8 +32,7 @@ If you have read all of this bio, well done! By now it may be evident that depth
 So, waffle over, or in my case, waffle on!
 I'm particularly interested in exploring how AI-assisted development can complement traditional programming techniques and improve software engineering workflows.
 With the recent growth of 'vibe coding', it was clear that AI was not just a tool to learn to use, but a tool to learn to master - knowing how to engineer AI prompts to produce a desired result was important, but analysing the output itself is quite another skillset entirely.
-Scrutiny is key for anything experimental. Having already decided to deepen my programming knowledge was a sensible choice before the age of AI slop.  Development speed is desirable. Quality is necessary, especially when using C, which still runs very fast.
-In other words, do it fast, but also do it well. Production quality needs a baseline, regardless of how incorrect industry standard deadlines may be.
+Scrutiny is key for anything experimental. Having already decided to deepen my programming knowledge was a sensible choice before the age of AI slop.  With development speed there is always a minimum quality benchmark, regardless of how incorrect industry standard deadlines may be.
 All too often it is very tempting to request to an AI, "build me function X for my program" or "build me an app to monitor datasets A, B and C" and hope for an acceptable enough output.
 We also need to learn to engineer prompts well, to test them, and to interrogate what we receive.
 These themes are elaborated through my exploration of AI with software development.
@@ -93,16 +92,9 @@ Another ambition that I would like to explore further is C web development.
 Exploration of Docker with Apache/nginx, WebAssembly and FastCGI with the aid of Claude and ChatGPT, have offered considerable insight and potential.
 Virtual Private Servers may provide a more C-friendly alternative to mainstream hosting platforms.
 By now, you may be wondering, "why would someone move from C++ to C and not to Rust, Zig or TypeScript, or anything else that's mainstream?"
-I actually started my journey with C before C++, although both started after exploration of Basic, PHP, and very limited exposure to ActionScript.
-C continues to grow in the TIOBE Index, remains incredibly fast, is highly general purpose, and can still use workarounds in order to accomplish simulating Object Oriented Programming through Data Structures.
-Furthermore, it is well supported for Linux Kernel Module development and has other low level access features for a high level programming language.
-In the age of AI growth, mainstream technologies get plenty of attention.
-Although C is arguably niche, it is long since established and is widespread enough to have trainable content.
-Learning Full Stack technologies? How many of them will be redundant in the next year? 2 years? 5?
-If they're your thing, I am absolutely for you doing you.
-I've just felt like C was always the 'sweet spot' for me since I first started learning it.
-Versatility is golden - I can use this toolbox to build a plugin, library, application, driver, server, client, embedded application... the list goes on.
-It's more effective for me to just stick with C and learn to use a new C tool.
+My journey with C arrived before my journeys with C++, Java or Python, although exploration of Basic and PHP, and very limited exposure to ActionScript, preceded my time with C.
+Overall, having tried various different languages, C met that 'sweet spot' that felt more natural.
+The saying goes, "you do you".
 
 ---
 
